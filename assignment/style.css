@@ -13,11 +13,13 @@ body {
   background-color: #F0F8FF;
   padding-top: 8px;
   padding-bottom: 8px;
+  font-family: Monaco;
 }
 
 /* Make your p tag a different color and italic */
 p {
   font-style: italic;
+  font-family: Monaco;
 }
 
 /* Put a border around your image */
@@ -30,6 +32,7 @@ p {
 
 #img {
     border: 7px solid #191970;
+    border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -47,7 +50,7 @@ p {
   margin-bottom: 0px;
   padding-top: 16px;
   padding-bottom: 16px;
-  font-family: cursive;
+  font-family: Monaco;
 
 }
 
